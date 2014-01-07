@@ -1,4 +1,4 @@
-#!/Users/dustin/bin
+#!/usr/bin/Python
 
 #	first_script.py
 #	This script is intended to be a test for GitHub.
@@ -9,7 +9,7 @@ from sys import argv
 
 input = argv[1]
 
-print "GitHub is a %s program" % input
+print "GitHub is a %s program." % input
 
 
 
